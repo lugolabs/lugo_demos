@@ -1,0 +1,7 @@
+first_demo:
+  title: Using autocomplete with Ruby on Rails
+  demo_url: /autocomplete
+  summary: Hello this is a great post
+  files:
+    - app/assets/javascripts/app.js
+    - app/models/app.rb
