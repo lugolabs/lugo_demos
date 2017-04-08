@@ -1,7 +1,7 @@
 first_demo:
-  title: Using autocomplete with Ruby on Rails
-  demo_url: /autocomplete
-  summary: Hello this is a great post
+  title: Timing Rake rasks
+  demo_url: /timing_rake
+  summary: Where we explore creating a timing function that puts messages at the start and complete of a Rake task
   files:
-    - app/assets/javascripts/app.js
-    - app/models/app.rb
+    - Rakefile
+    - lib/tasks/testing.rake
